@@ -10,7 +10,7 @@ To analyze IPL match and player data to derive meaningful insights about team pe
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 | Python 3.11 | Core programming language |
@@ -23,7 +23,7 @@ To analyze IPL match and player data to derive meaningful insights about team pe
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset consists of 6 files covering IPL matches from 2008 to 2017:
 
@@ -37,7 +37,7 @@ The dataset consists of 6 files covering IPL matches from 2008 to 2017:
 
 ---
 
-## 📊 Analysis Performed
+## Analysis Performed
 
 ### 1. Team Performance
 
@@ -68,7 +68,7 @@ The dataset consists of 6 files covering IPL matches from 2008 to 2017:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 1. **Virat Kohli** is the all-time leading run scorer in IPL history with **5,426 runs**.
 2. **Mumbai Indians** have the most IPL match wins across all seasons.
