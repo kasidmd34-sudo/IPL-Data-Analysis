@@ -1,10 +1,10 @@
-# 🏏 IPL Data Analysis
+#  IPL Data Analysis
 
 A comprehensive exploratory data analysis (EDA) of Indian Premier League (IPL) match data using Python. This project uncovers patterns in team performance, player statistics, and match trends across all IPL seasons.
 
 ---
 
-## 📌 Objective
+##  Objective
 
 To analyze IPL match and player data to derive meaningful insights about team performance, batting and bowling statistics, home vs away trends, and season-wise patterns — and present them through clear visualizations.
 
@@ -112,7 +112,7 @@ ipl-data-analysis/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -137,7 +137,7 @@ ipl-data-analysis/
 
 ---
 
-## 👤 Author
+##  Author
 
 **Md Kasid Shaikh**
 B.Tech CSE (AI & ML) — 1st Year
